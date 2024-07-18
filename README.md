@@ -22,3 +22,6 @@ Please make sure to update tests as appropriate.
 
 # Access the Website:
   https://nodechat-app.netlify.app/
+
+
+PS: Backend is down rightNow .Edit :13:56 18-07-2024
